@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Banking",
+  "description": "Modern digital banking platform for real-time bank connections, transfers, transaction tracking, analytics, and security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
